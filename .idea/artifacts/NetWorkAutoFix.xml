@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetWorkAutoFix">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetWorkAutoFix</output-path>
+    <root id="archive" name="NetWorkAutoFix.jar">
+      <element id="module-output" name="NetWorkAutoFix" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
